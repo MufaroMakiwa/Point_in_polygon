@@ -1,0 +1,288 @@
+ 
+[
+    {
+      "place_id": 235939056,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 6086703,
+      "boundingbox": [
+        "-17.8089832",
+        "-17.7795146",
+        "31.1326811",
+        "31.1603597"
+      ],
+      "lat": "-17.7938137",
+      "lon": "31.1466712",
+      "display_name": "Mandara, Harare, Harare Province, Zimbabwe",
+      "class": "boundary",
+      "type": "administrative",
+      "importance": 0.46,
+      "icon": "https://nominatim.openstreetmap.org/images/mapicons/poi_boundary_administrative.p.20.png",
+      "geojson": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.1326811,
+              -17.7907154
+            ],
+            [
+              31.1411551,
+              -17.80265
+            ],
+            [
+              31.1427379,
+              -17.8049176
+            ],
+            [
+              31.143344,
+              -17.8058625
+            ],
+            [
+              31.1454467,
+              -17.8089832
+            ],
+            [
+              31.1603597,
+              -17.8011586
+            ],
+            [
+              31.1587075,
+              -17.7929045
+            ],
+            [
+              31.1573079,
+              -17.7843846
+            ],
+            [
+              31.1569051,
+              -17.7819326
+            ],
+            [
+              31.1565689,
+              -17.7795146
+            ],
+            [
+              31.1558369,
+              -17.779533
+            ],
+            [
+              31.1531764,
+              -17.7796611
+            ],
+            [
+              31.1513822,
+              -17.7797276
+            ],
+            [
+              31.1501491,
+              -17.7797705
+            ],
+            [
+              31.148906,
+              -17.7797832
+            ],
+            [
+              31.1441338,
+              -17.7799717
+            ],
+            [
+              31.1401722,
+              -17.7836545
+            ],
+            [
+              31.1392357,
+              -17.7845225
+            ],
+            [
+              31.1351969,
+              -17.7883747
+            ],
+            [
+              31.1326811,
+              -17.7907154
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "place_id": 286976038,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 548859578,
+      "boundingbox": [
+        "-17.7959982",
+        "-17.7923914",
+        "31.1508056",
+        "31.152093"
+      ],
+      "lat": "-17.7939646",
+      "lon": "31.1508056",
+      "display_name": "Mandara, Harare, Harare Province, Zimbabwe",
+      "class": "waterway",
+      "type": "stream",
+      "importance": 0.41,
+      "geojson": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.1514504,
+            -17.7959982
+          ],
+          [
+            31.1512133,
+            -17.7952313
+          ],
+          [
+            31.1508056,
+            -17.7939646
+          ],
+          [
+            31.1511918,
+            -17.793086
+          ],
+          [
+            31.152093,
+            -17.7923914
+          ]
+        ]
+      }
+    },
+    {
+      "place_id": 178423363,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 406181406,
+      "boundingbox": [
+        "-17.8058625",
+        "-17.8036918",
+        "31.1427379",
+        "31.1451948"
+      ],
+      "lat": "-17.8046725",
+      "lon": "31.1451948",
+      "display_name": "Mandara, Crawley Road, Mandara, Harare, Harare Province, Zimbabwe",
+      "class": "landuse",
+      "type": "residential",
+      "importance": 0.21100000000000002,
+      "geojson": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.1427379,
+            -17.8049176
+          ],
+          [
+            31.144551,
+            -17.8036918
+          ],
+          [
+            31.1451948,
+            -17.8046725
+          ],
+          [
+            31.143344,
+            -17.8058625
+          ]
+        ]
+      }
+    },
+    {
+      "place_id": 178700479,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 406181405,
+      "boundingbox": [
+        "-17.8049176",
+        "-17.7907154",
+        "31.1326811",
+        "31.1427379"
+      ],
+      "lat": "-17.80265",
+      "lon": "31.1411551",
+      "display_name": "Mandara, Cambridge Drive, Greendale, Harare, Harare Province, Zimbabwe",
+      "class": "landuse",
+      "type": "residential",
+      "importance": 0.21100000000000002,
+      "geojson": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.1326811,
+            -17.7907154
+          ],
+          [
+            31.1411551,
+            -17.80265
+          ],
+          [
+            31.1427379,
+            -17.8049176
+          ]
+        ]
+      }
+    },
+    {
+      "place_id": 167633468,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+      "osm_type": "way",
+      "osm_id": 336041157,
+      "boundingbox": [
+        "-17.8089832",
+        "-17.7843846",
+        "31.143344",
+        "31.1603597"
+      ],
+      "lat": "-17.8011586",
+      "lon": "31.1603597",
+      "display_name": "Mandara, Echo Close, Mandara, Harare, Harare Province, Zimbabwe",
+      "class": "landuse",
+      "type": "residential",
+      "importance": 0.21100000000000002,
+      "geojson": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            31.143344,
+            -17.8058625
+          ],
+          [
+            31.1454467,
+            -17.8089832
+          ],
+          [
+            31.1603597,
+            -17.8011586
+          ],
+          [
+            31.1587075,
+            -17.7929045
+          ],
+          [
+            31.1573079,
+            -17.7843846
+          ]
+        ]
+      }
+    }
+  ]
+  
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
